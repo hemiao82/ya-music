@@ -8,6 +8,7 @@ class YaMusicApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("111");
     }
 
 }
